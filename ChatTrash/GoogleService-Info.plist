@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>683454099237-4p5frv4vkcortj6npidoholg1ik255vv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.683454099237-4p5frv4vkcortj6npidoholg1ik255vv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQgg7tzBQu8dS-DZF1wI2QE-fnrAMvuCY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>683454099237</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.icloud.rgyhiro1120.ChatTrash</string>
+	<key>PROJECT_ID</key>
+	<string>chattrash-b2e4b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chattrash-b2e4b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:683454099237:ios:fafb6bd9e561f800fcb4cc</string>
+	<key>DATABASE_URL</key>
+	<string>https://chattrash-b2e4b.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+framework module Pods_ChatTrash_ChatTrashUITests {
+  umbrella header "Pods-ChatTrash-ChatTrashUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
